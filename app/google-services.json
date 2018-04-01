@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520898828680",
+    "firebase_url": "https://astrid1202154353modul6.firebaseio.com",
+    "project_id": "astrid1202154353modul6",
+    "storage_bucket": "astrid1202154353modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520898828680:android:af04d5c16db41acd",
+        "android_client_info": {
+          "package_name": "com.example.android.astrid_1202154353_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520898828680-g5j7q3128b0m9d7msieccob63bltu6ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.astrid_1202154353_modul6",
+            "certificate_hash": "10b8ea93d180036d42660aaaf843c549652053d3"
+          }
+        },
+        {
+          "client_id": "520898828680-mqv02smve4mbi3me6f9cm29q12q8e71u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bYbVgMZBPqf8WtT1-38pwiW8egwGv_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520898828680-mqv02smve4mbi3me6f9cm29q12q8e71u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
